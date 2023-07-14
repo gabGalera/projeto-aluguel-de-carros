@@ -9,10 +9,4 @@ public class Car : Vehicle
     public TractionType Traction {get; set;}
     public BrakeType FrontBrake {get; set;}
     public BrakeType RearBrake {get; set;}
-    // Seats que deve ser do tipo Int;
-    // Doors que deve ser do tipo Int;
-    // Traction que deve ser do tipo TractionType;
-    // FrontBrake que deve ser do tipo BrakeType;
-    // RearBrake que deve ser do tipo BrakeType;
-
 }
